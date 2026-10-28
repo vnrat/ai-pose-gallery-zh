@@ -1,3 +1,8 @@
+Cách chạy trên Windows
+python -m http.server 8000
+Sau đó truy cập:
+http://localhost:8000
+
 # AI Pose Gallery · 中文版
 
 > 288 组 / 1439 张 AI 人体姿势参考图，日文数据完整汉化，附可直接部署的响应式静态画廊。
